@@ -1,0 +1,1 @@
+"C:\Program Files\qemu\qemu-system-arm.exe" -m 1G -M raspi2b -serial stdio -kernel myos.elf
